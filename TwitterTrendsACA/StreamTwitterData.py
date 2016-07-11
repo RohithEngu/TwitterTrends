@@ -9,10 +9,10 @@ import sys
 import boto3
 
 # Authentication details.
-consumer_key = 'Hvq33CfuafOFrbDJOrSAKNkLg'
-consumer_secret = '3u37qtXeNQF60C0npQeG4rMeZOCFPlmRwHn97akWFVdk6sabBJ'
-access_token = '33020840-hDoKHyIfU4PobFpZifignmJHOXZoY22FxBOG95swf'
-access_token_secret = 'smjekhIny8IePpvC1ZQoDp9Bh20lOgeMie255BHy1kxI5'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 GEOBOX_WORLD = [-180,-90,180,90]
 GEOBOX_USA = [-165.6,12.6,-52.7,66.4]
